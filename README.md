@@ -8,6 +8,6 @@ PRATAP SHINGANE
 
 <div align="center">
   <a href="https://github.com/pratapshingane18/">
-  <img  src="https://github.com/pratapshingane18/pratapshingane18/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/pratapshingane18/pratapshingane18/blob/main/resources/img/grid-snake.gif"
        alt="snake" /></a>
 </div>
