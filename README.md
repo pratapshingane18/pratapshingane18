@@ -8,4 +8,4 @@ PRATAP SHINGANE
 
 
 
-https://github.com/pratapshingane18/pratapshingane/blob/output/github-contribution-grid-snake.gif
+https://github.com/pratapshingane18/pratapshingane18/blob/output/github-contribution-grid-snake.gif
