@@ -1,10 +1,10 @@
-<!-- <h1 align="center">
+<h1 align="center">
 PRATAP SHINGANE
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+PRATAP+SHINGANE.;I'm+a+student+at+Walchand+College+of+Engineering.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+PRATAP+SHINGANE.;I'm+a+student+at+Walchand+College+of+Engineering.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg) 
   
   
-  <h1 align="center">Hi, I'm Pratap Shingane<img width="30px" src="#"></h1>
+
 <h3 font-size="20" align="center">A passionate about web developement and a student from India.</h3>
 
 
