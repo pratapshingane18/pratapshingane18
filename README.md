@@ -16,3 +16,7 @@ PRATAP SHINGANE
 ![PratsDiary's github stats](https://github-readme-stats.vercel.app/api?username=pratapshingane18&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratapshingane18&theme=tokyonight" alt="mystreak"/>
 ![PratsDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapshingane18&theme=tokyonight&layout=compact)
+    
+    ### 📊 Contribution Stats
+
+<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=pratapshingane18&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
