@@ -213,7 +213,6 @@ PRATAP SHINGANE
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratapshingane18&theme=tokyonight" alt="mystreak"/>
 ![PratsDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapshingane18&theme=tokyonight&layout=compact)
     
-  
     
 <p align="center">
  <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
