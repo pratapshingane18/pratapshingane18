@@ -215,4 +215,11 @@ PRATAP SHINGANE
     
   
     
+<p align="center">
+ <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
+</p>
 
+-----
+Credits: [Pratap Shingane](https://github.com/pratapshingane18)
+
+Last Edited on: 22/01/2023
