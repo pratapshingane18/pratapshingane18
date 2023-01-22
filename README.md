@@ -18,7 +18,7 @@ PRATAP SHINGANE
 
 - 💬 Discuss with me about **System Designs and Philosophy 😆**
 
-- ⚡ Fun fact **It’s all 0’s and 1’s**
+- ⚡ Fun fact **If it's not a PC then it's not all 0’s and 1’s it's FUZZZZY**
 
 
 ---
