@@ -11,3 +11,8 @@ PRATAP SHINGANE
   <img  src="https://github.com/pratapshingane18/pratapshingane18/blob/output/github-contribution-grid-snake.gif"
        alt="snake" /></a>
 </div>
+
+## By the way here are some of my statistics 🚀
+![PratsDiary's github stats](https://github-readme-stats.vercel.app/api?username=pratapshingane18&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratapshingane18&theme=tokyonight" alt="mystreak"/>
+![PratsDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapshingane18&theme=tokyonight&layout=compact)
