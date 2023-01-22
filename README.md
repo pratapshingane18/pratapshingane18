@@ -36,10 +36,13 @@ PRATAP SHINGANE
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-    
+      
+<!--       ![Visitor Count](https://profile-counter.glitch.me/{pratapshingane18}/count.svg)
+
+     -->
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
+  <img src="https://profile-counter.glitch.me/pratapshingane18/count.svg" />  
 </p>
     
    
