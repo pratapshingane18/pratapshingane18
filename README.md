@@ -8,7 +8,7 @@ PRATAP SHINGANE
 <h3 font-size="20" align="center">A passionate about web developement and a student from India.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"/>
+- 🌱 I’m currently learning **Life and People** <img align="right" style="width:16rem; height:auto" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"/>
 
 - 👯 I’m looking to collaborate on **Web Freelancing Projects**
 
