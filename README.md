@@ -12,7 +12,7 @@ PRATAP SHINGANE
 
 - 👯 I’m looking to collaborate on **Web Freelancing Projects**
 
-- 🤝 I’m looking to learn **System Design**
+- 🤝 [Click Me](https://pratapshingane.netlify.app/)
 
 - 👨‍💻 All of my projects are available [pratapshingane18](github.com/pratapshingane18)
 
