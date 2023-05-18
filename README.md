@@ -18,9 +18,9 @@ PRATAP SHINGANE
   </br>
   </br>
 
-<!--- 💬 Discuss with me about **System Designs and Philosophy 😆**
+ 💬 I am interested in product desining and operations😆**
 
-- ⚡ Fun fact **If it's not a PC then it's not all about 0’s and 1’s it's FUZZZZY** -->
+- ⚡ Fact **"Code and design is like humor. When you have to explain it, it's bad."** 
 
 
 ---
