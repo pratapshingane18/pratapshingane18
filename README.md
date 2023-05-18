@@ -15,8 +15,7 @@ PRATAP SHINGANE
 - 🤝 [Click Me](https://pratapshingane.netlify.app/)
 
  - 👨‍💻 All of my projects are available [pratapshingane18](github.com/pratapshingane18)
-  </br>
-  </br>
+ 
 
  💬 I am interested in product desining and operations😆**
 
