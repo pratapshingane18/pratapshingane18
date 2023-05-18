@@ -17,7 +17,7 @@ PRATAP SHINGANE
  - 👨‍💻 All of my projects are available [pratapshingane18](github.com/pratapshingane18)
  
 
- 💬 I am interested in product desining and operations😆**
+ - 💬 **I am interested in product desining and operations😆**
 
 - ⚡ Fact **"Code and design is like humor. When you have to explain it, it's bad."** 
 
